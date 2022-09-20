@@ -1,0 +1,4 @@
+[CRITICAL] Bad usage
+[Error] Divided by zero
+[CRITICAL] Bad usage
+[Error] Divided by zero
