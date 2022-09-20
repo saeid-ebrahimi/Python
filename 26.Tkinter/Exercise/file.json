@@ -1,0 +1,4 @@
+[
+  {"DateObserved":"2022-01-05 ","HourObserved":2,"LocalTimeZone":"EST","ReportingArea":"Metropolitan Washington","StateCode":"DC","Latitude":38.919,"Longitude":-77.013,"ParameterName":"O3","AQI":20,"Category":{"Number":1,"Name":"Good"}},
+  {"DateObserved":"2022-01-05 ","HourObserved":2,"LocalTimeZone":"EST","ReportingArea":"Metropolitan Washington","StateCode":"DC","Latitude":38.919,"Longitude":-77.013,"ParameterName":"PM2.5","AQI":55,"Category":{"Number":2,"Name":"Moderate"}},
+  {"DateObserved":"2022-01-05 ","HourObserved":2,"LocalTimeZone":"EST","ReportingArea":"Metropolitan Washington","StateCode":"DC","Latitude":38.919,"Longitude":-77.013,"ParameterName":"PM10","AQI":12,"Category":{"Number":1,"Name":"Good"}}]

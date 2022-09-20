@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<quiz>
+    <math>
+        <q1>
+            <question>
+                8 + 7 = ?
+                <options>10</options>
+                <options>11</options>
+                <options>12</options>
+                <options>15</options>
+                <answer>15</answer>
+            </question>
+        </q1>
+    </math>
+</quiz>
