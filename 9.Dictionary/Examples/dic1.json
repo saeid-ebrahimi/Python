@@ -1,0 +1,26 @@
+{
+    "students": [
+        {
+            "firstName": "Nikki",
+            "lastName": "Royen"
+        },
+        {
+            "firstName": "Mervin",
+            "lastName": "Friesland"
+        },
+        {
+            "firstName": "Aron ",
+            "lastName": "Wilkins"
+        }
+    ],
+    "teachers": [
+        {
+            "firstName": "Amberly",
+            "lastName": "Calico"
+        },
+        {
+            "firstName": "Regine",
+            "lastName": "Agar"
+        }
+    ]
+}

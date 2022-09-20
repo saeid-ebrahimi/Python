@@ -1,0 +1,5 @@
+David	Lucy	Catrin	Ping	Natalie	Dana	Addison	Jasmine
+[  1  0  ,     2  5  ,     4  0  ,     1  8  ,     3  0  ,     5  0  ,     1  1  ,     1  6  ]
+
+David, 10	Lucy, 25	Catrin, 40	Ping, 18	Natalie, 30	Dana, 50	Addison, 11	Jasmine, 16	
+
